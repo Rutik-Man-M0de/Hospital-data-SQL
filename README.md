@@ -20,8 +20,6 @@ This repository contains SQL queries executed in pgAdmin for analyzing hospital 
 
 🛠 Tech Stack: PostgreSQL, pgAdmin, SQL
 
-📂 Explore the Assignment (PDF): [Attach Link to GitHub Repo]
-
 Let me know if you'd like any refinements! 🚀
 
 
